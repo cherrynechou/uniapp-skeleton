@@ -4,7 +4,7 @@
 ## Installing
 
 ```shell
-$ git clone cherrynechou/uniapp-skeleton
+$ git clone https://github.com/cherrynechou/uniapp-skeleton
 ```
 
 ## License
